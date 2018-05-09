@@ -1,0 +1,7 @@
+code zWry;
+type instrument;
+playhead true;
+midionly true;
+midiin true;
+midiout true;
+compatibility 1.0.5;
