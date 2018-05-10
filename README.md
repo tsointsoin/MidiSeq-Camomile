@@ -1,5 +1,9 @@
 # MidiSeq-Camomile
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/tsointsoin/MidiSeq-Camomile/master/MidiSeq-Camomile.png" alt="MidiSeq" width=725 height=368>
+</p>
+
 To be used as a plugin with Camomile (https://github.com/pierreguillot/Camomile)
 
 Requires at least Camomile v1.0.5 to work correctly
